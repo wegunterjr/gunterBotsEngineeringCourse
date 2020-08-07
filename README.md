@@ -41,18 +41,17 @@ Fail early, fail often!
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
 |  1 |  Fri, Aug 07               | [Intro to Engineering] |
-|  2 |  Fri, Aug 14               | [Lesson 2] |
-|  3 |  Fri, Aug 21               | [Lesson 3] |
-|  4 |  Fri, Aug 28               | [Lesson 4] |
-|  5 |  Fri, Sept 11              | [Lesson 5] |
-|  6 |  Fri, Sept 18              | [Lesson 6] |
-|  7 |  Fri, Sept 25              | [Lesson 7] |
-|  8 |  Fri, Oct 02               | [Lesson 8] |
-|  9 |  Fri, Oct 09               | [Lesson 9] |
-| 10 |  Fri, Oct 16               | [Lesson 10] |
-| 11 |  Fri, Oct 23               | [Lesson 11] |
-| 12 |  Fri, Oct 30               | [Lesson 12] |
-| 12 |  Fri, Nov 06               | [Lesson 12] |
+|  2 |  Fri, Aug 14               | [Project Overview/Safety] |
+|  3 |  Fri, Aug 21               | [Order Stuff/Finances] |
+|  4 |  Fri, Aug 28               | [Machining Overview] |
+|  5 |  Fri, Sept 11              | [Assemble Stuff] |
+|  6 |  Fri, Sept 18              | [Machining/3D printing overview] |
+|  7 |  Fri, Sept 25              | [Machining Stuff] |
+|  8 |  Fri, Oct 02               | [Electrical/Battery/Programming] |
+|  9 |  Fri, Oct 09               | [TEST AND TWEAK!!!] |
+| 10 |  Fri, Oct 16               | [TEST AND TWEAK PART DEUX!!!] |
+| 11 |  Fri, Oct 23               | [EVEN MORE TWEAKING!!] |
+| 12 |  Fri, Nov 06               | [Celebrate and Demonstrate] |
 
 [Intro to Engineering]: Lessons/Lesson1.md
 
