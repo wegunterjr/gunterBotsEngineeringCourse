@@ -19,16 +19,6 @@ By the end of the course, you will be able to ...
 DO AWESOME STUFF!!! MAKE THINGS!!
 
 
-![Image of Engineering Design Circle](engineeringDesignProcess.png)
-Engineering/Problem Solving Cycle
-1. Identify Need or Problem
-1. Research Criteria/Constraints
-1. Brainstorm possible solutions
-1. Select Best Solution
-1. Construct Prototype
-1. Test
-1. Present Solution
-1. Redesign
 
 Fail early, fail often!   
 
