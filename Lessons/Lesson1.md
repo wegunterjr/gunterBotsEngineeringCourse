@@ -7,7 +7,7 @@
 
 <!-- > -->
 
-![Image of Engineering Design Circle](./engineeringDesignProcess.png)
+![Image of Engineering Design Circle](../engineeringDesignProcess.png)
 Engineering/Problem Solving Cycle
 1. Identify Need or Problem
 1. Research Criteria/Constraints
