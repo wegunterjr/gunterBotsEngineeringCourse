@@ -3,7 +3,7 @@
 
 <!-- Put a link to the slides so that students can find them -->
 
-➡️ [**Slides**](/Syllabus-Template/Slides/Lesson1.html ':ignore')
+➡️ [**Slides**](/gunterBotsEngineeringCourse/Slides/Lesson1.html ':ignore')
 
 <!-- > -->
 
@@ -24,4 +24,5 @@ Explain why students should care to learn the material presented in this class.
 1. Implement
 
 <!-- > -->
+
 
