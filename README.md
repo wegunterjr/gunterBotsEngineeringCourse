@@ -1,6 +1,5 @@
-# Title
-
-GunterBots Engineering Course
+# Gunterbots Engineering Course for Changing the world
+(and to prepare for our robot overlords)
 
 ## Course Description
 
