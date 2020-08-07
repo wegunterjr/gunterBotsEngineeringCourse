@@ -3,7 +3,8 @@
 
 <!-- Put a link to the slides so that students can find them -->
 
-➡️ [**Slides**](/gunterBotsEngineeringCourse/Slides/Lesson1.html ':ignore')
+➡️ [**Slides**](/gunterBotsEngineeringCourse/blob/masters/Slides/Lesson1.html ':ignore')
+https://github.com/wegunterjr/gunterBotsEngineeringCourse/blob/master/Slides/Lesson1.html
 
 <!-- > -->
 
