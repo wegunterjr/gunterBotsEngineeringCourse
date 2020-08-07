@@ -19,7 +19,7 @@ By the end of the course, you will be able to ...
 DO AWESOME STUFF!!! MAKE THINGS!!
 
 
-![Image of Engineering Design Circle](https://github.com/wegunterjr/gunterBotsEngineeringCourse/blob/master/engineeringDesignProcess.png)
+![Image of Engineering Design Circle](engineeringDesignProcess.png)
 Engineering/Problem Solving Cycle
 1. Identify Need or Problem
 1. Research Criteria/Constraints
