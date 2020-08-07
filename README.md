@@ -15,11 +15,13 @@ Watch some inspirational videos (with your parents permission of course)
 
 ## Learning Outcomes
 
-### **[INSTRUCTOR NOTE: PLEASE LIST (3-5) LEARNING OUTCOMES]**
-
 By the end of the course, you will be able to ...
+DO AWESOME STUFF!!! MAKE THINGS!!
 
-1.Identify Need or Problem
+
+![Image of Engineering Design Circle](https://github.com/wegunterjr/gunterBotsEngineeringCourse/blob/master/engineeringDesignProcess.png)
+Engineering/Problem Solving Cycle
+1. Identify Need or Problem
 1. Research Criteria/Constraints
 1. Brainstorm possible solutions
 1. Select Best Solution
