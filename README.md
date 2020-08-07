@@ -5,12 +5,12 @@
 
 We use projects to learn how to solve problems.  Learn engineering, robotics, problem solving, criticial thinking while working on FUN projects.
 
-## Prerequisites:  
+## Inspiration:  
 Watch some inspirational videos (with your parents permission of course)
 
 ➡️ [**Boston Dynamics**](https://www.youtube.com/watch?v=3OKZ_n8QW4wl ':ignore')
+➡️ [**One Wheel Safety Overview**](https://youtu.be/Ys3ivCUxIvY ':ignore')
 
-- [Prerequisite 2]()
 
 ## Learning Outcomes
 
@@ -31,9 +31,6 @@ Fail early, fail often!
 
 ## Schedule
 
-
-**M/W Template [PLEASE REMOVE THIS HEADER BEFORE AUGUST 17]**
-
 **Course Dates:** Friday, August 07 – Friday, November 6, 2020 (12 weeks)
 
 **Class Times:** Friday at 4:30pm
@@ -43,10 +40,10 @@ Fail early, fail often!
 |  1 |  Fri, Aug 07               | [Intro to Engineering] |
 |  2 |  Fri, Aug 14               | [Project Overview/Safety] |
 |  3 |  Fri, Aug 21               | [Order Stuff/Finances] |
-|  4 |  Fri, Aug 28               | [Machining Overview] |
-|  5 |  Fri, Sept 11              | [Assemble Stuff] |
-|  6 |  Fri, Sept 18              | [Machining/3D printing overview] |
-|  7 |  Fri, Sept 25              | [Machining Stuff] |
+|  4 |  Fri, Aug 28               | [Machining/3D Printing Overview] |
+|  5 |  Fri, Sept 11              | [Machining Stuff] |
+|  6 |  Fri, Sept 18              | [3D print stuff] |
+|  7 |  Fri, Sept 25              | [Receive Parts/Assemble Stuff] |
 |  8 |  Fri, Oct 02               | [Electrical/Battery/Programming] |
 |  9 |  Fri, Oct 09               | [TEST AND TWEAK!!!] |
 | 10 |  Fri, Oct 16               | [TEST AND TWEAK PART DEUX!!!] |
@@ -55,48 +52,10 @@ Fail early, fail often!
 
 [Intro to Engineering]: Lessons/Lesson1.md
 
-
-## Assignment Schedule 
-
-**[INSTRUCTOR NOTE] REPLACE THE BELOW WITH LINKS TO YOUR ASSIGNMENTS, CORRECT DATES, AND SUBMISSION FORM**
-
-|                        Assignment                         | Date Assigned |   Due Date   |            Submission Form           |
-|:---------------------------------------------------------:|:-------------:|:------------:|:------------------------------------:|
-| [Link to Assignment](makeschool.com)                      |  Tue, Oct 15  |  Tue, Oct 22 | [Submit Assignment](makeschool.com)  |
-| [Link to Assignment](makeschool.com)                      |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
-| [Link to Assignment](makeschool.com)                      |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
-| [Link to Assignment](makeschool.com)                      |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
-
-## Class Assignments
-
 ### Tutorials
 
 - [Do Cool Stuff Tutorial]()
 
 ### Projects
 
-- [Project Template - Use to build your own project spec](https://github.com/Make-School-Labs/Project-Template)
 
-## Evaluation
-
-**[INSTRUCTOR NOTE] REPLACE THE BELOW WITH EVALUATIONS THAT PERTAIN TO YOUR COURSE. THE BELOW ARE PROVIDED AS A SAMPLE**
-
-To pass this course you must meet the following requirements:
-
-- Complete all required assignments 
-- Pass all projects according to the associated project rubric
-- Pass the final summative assessment according to the rubric as specified in this class
-    - This will be further explained in the [study guide](ADD_STUDY_GUIDE_LNK)
-- Actively participate in class and abide by the attendance policy
-- Make up all classwork from all absences
-
-## Make School Course Policies
-
-- [Program Learning Outcomes](https://make.sc/program-learning-outcomes) - What you will achieve after finishing Make School, all courses are designed around these outcomes.
-- [Grading System](https://make.sc/grading-system) - How grading is done at Make School
-- [Code of Conduct, Equity, and Inclusion](https://make.sc/code-of-conduct) - Learn about Diversity and Inclusion at Make School
-- [Academic Honesty](https://make.sc/academic-honesty-policy) - Our policies around plagerism, cheating, and other forms of academic misconduct
-- [Attendance Policy](https://make.sc/attendance-policy) - What we expect from you in terms of attendance for all classes at Make School
-- [Course Credit Policy](https://make.sc/course-credit-policy) - Our policy for how you obtain credit for your courses
-- [Disability Services (Academic Accommodations)](https://make.sc/disability-services) - Services and accommodations we provide for students
-- [Student Handbook](https://make.sc/student-handbook) - Guidelines, policies, and resources for all Make School students
