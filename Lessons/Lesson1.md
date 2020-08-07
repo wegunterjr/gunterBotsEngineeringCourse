@@ -7,21 +7,16 @@
 
 <!-- > -->
 
-
-<!-- > -->
-
-## Why you should know this or industry application (optional) (5 min)
-
-Explain why students should care to learn the material presented in this class.
-
-<!-- > -->
-
-## Learning Objectives (5 min)
-
-1. Identify and describe
-1. Define
-1. Design
-1. Implement
+![Image of Engineering Design Circle](engineeringDesignProcess.png)
+Engineering/Problem Solving Cycle
+1. Identify Need or Problem
+1. Research Criteria/Constraints
+1. Brainstorm possible solutions
+1. Select Best Solution
+1. Construct Prototype
+1. Test
+1. Present Solution
+1. Redesign
 
 <!-- > -->
 
