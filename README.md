@@ -40,7 +40,7 @@ Fail early, fail often!
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Fri, Aug 07               | [Lesson 1] |
+|  1 |  Fri, Aug 07               | [Intro to Engineering] |
 |  2 |  Fri, Aug 14               | [Lesson 2] |
 |  3 |  Fri, Aug 21               | [Lesson 3] |
 |  4 |  Fri, Aug 28               | [Lesson 4] |
@@ -54,7 +54,7 @@ Fail early, fail often!
 | 12 |  Fri, Oct 30               | [Lesson 12] |
 | 12 |  Fri, Nov 06               | [Lesson 12] |
 
-[Lesson 1]: Lessons/Lesson1.md
+[Intro to Engineering]: Lessons/Lesson1.md
 
 
 ## Assignment Schedule 
