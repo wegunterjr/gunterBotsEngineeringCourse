@@ -8,7 +8,8 @@ We use projects to learn how to solve problems.  Learn engineering, robotics, pr
 
 ## Prerequisites:  
 Watch some inspirational videos (with your parents permission of course)
-- [Prerequisite 1]()
+➡️ [**Boston Dynamics**](https://www.youtube.com/watch?v=3OKZ_n8QW4wl ':ignore')
+
 - [Prerequisite 2]()
 
 ## Learning Outcomes
