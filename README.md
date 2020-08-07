@@ -1,17 +1,13 @@
 # Title
 
-
+GunterBots Engineering Course
 
 ## Course Description
 
-Describe your course here. A short elevator pitch for the course, use positive, friendly language to get students excited to take your course. Use of I/you/we should be used over instructor/students.
-
-### Why you should know this (optional)
-
-Explain why students should care to learn the material presented in this class.
+We use projects to learn how to solve problems.  Learn engineering, robotics, problem solving, criticial thinking while working on FUN projects.
 
 ## Prerequisites:  
-
+Watch some inspirational videos (with your parents permission of course)
 - [Prerequisite 1]()
 - [Prerequisite 2]()
 
@@ -21,11 +17,16 @@ Explain why students should care to learn the material presented in this class.
 
 By the end of the course, you will be able to ...
 
-1. Identify & Describe
-1. Explain
-1. Compare & Contrast
-1. Design & Implement
-1. Practice
+1.Identify Need or Problem
+1. Research Criteria/Constraints
+1. Brainstorm possible solutions
+1. Select Best Solution
+1. Construct Prototype
+1. Test
+1. Present Solution
+1. Redesign
+
+Fail early, fail often!   
 
 ## Schedule
 
@@ -50,21 +51,10 @@ By the end of the course, you will be able to ...
 | 10 |  Fri, Oct 16               | [Lesson 10] |
 | 11 |  Fri, Oct 23               | [Lesson 11] |
 | 12 |  Fri, Oct 30               | [Lesson 12] |
+| 12 |  Fri, Nov 06               | [Lesson 12] |
 
 [Lesson 1]: Lessons/Lesson1.md
-[Lesson 2]: Lessons/Lesson2.md
-[Lesson 3]: Lessons/Lesson3.md
-[Lesson 4]: Lessons/Lesson4.md
-[Lesson 5]: Lessons/Lesson5.md
-[Lesson 6]: Lessons/Lesson6.md
-[Lesson 7]: Lessons/Lesson7.md
-[Lesson 8]: Lessons/Lesson8.md
-[Lesson 9]: Lessons/Lesson9.md
-[Lesson 10]: Lessons/Lesson10.md
-[Lesson 11]: Lessons/Lesson11.md
-[Lesson 12]: Lessons/Lesson12.md
-[Lesson 13]: Lessons/Lesson13.md
-[Lesson 14]: Lessons/Lesson14.md
+
 
 ## Assignment Schedule 
 
