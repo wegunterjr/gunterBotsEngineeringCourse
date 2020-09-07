@@ -17,11 +17,21 @@ https://electric-skateboard.builders/t/onewheel-build-guide/80129
 
 https://forum.esk8.news/t/onewheel-build-guide-continuation-from-old-forum/19846
 
+[![](http://img.youtube.com/vi/0dq-1kT_1OI/0.jpg)](http://www.youtube.com/watch?v=0dq-1kT_1OI "Hoverboard OneWheel")
 
-Major Parts/Categories identified:\
+Some Challenges with the hoverboard approach is that a lot of available hover boards have 6.5" wheels :unamused:.  Will make the deck lower to the ground, but might be some options to lift the deck but could be off-balance.
+
+Take the two hoverboard motors and make one wheel. The two motors will serve as the internal hub and will need a larger wheel.
+
+## Major Parts/Categories identified:\
 Motor/Wheels\
 Deck \
 Pressure Plate   https://www.thingiverse.com/thing:4140325\
 Battery \
-Accessories
+Speed Controller with IMU  
+Accessories:  
+* Brain - M5 Stack  
+* Sensors
+* LED's
+* Speaker
 <!-- > -->

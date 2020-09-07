@@ -37,4 +37,5 @@ Engineering Design Cycle - (continued)
 Discovered issues with pricing due to shipping and import taxes!  WOOOO!!!  
 
 Might consider alternatives, like using hoverboard motors since they are in-hub motors and might be more available.
+
 <!-- > -->
