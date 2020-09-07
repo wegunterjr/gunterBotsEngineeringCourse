@@ -3,9 +3,9 @@
   - [Aug 07](Lessons/Lesson1.md)
   - [Aug 14](Lessons/Lesson2.md)
   - [Aug 21](Lessons/Lesson3.md)
-  - [Aug 28](Lessons/Lesson4.md)
+  - Aug 28
   - Sept 4 
-  - Sept 11
+  - [Sept 11](Lessons/Lesson4.md)
   - Sep 18
   - Sep 25
   - Oct 02
