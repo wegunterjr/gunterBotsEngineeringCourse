@@ -1,16 +1,16 @@
 - **[Syllabus](README.md)**
 - **Lessons**
-  - [Lesson 1](Lessons/Lesson1.md)
-  - [Lesson 2](Lessons/Lesson2.md)
-  - [Lesson 3](Lessons/Lesson3.md)
-  - [Lesson 4](Lessons/Lesson4.md)
-  - [Lesson 5](Lessons/Lesson5.md)
-  - [Lesson 6](Lessons/Lesson6.md)
-  - [Lesson 7](Lessons/Lesson1.md)
-  - [Lesson 8](Lessons/Lesson1.md)
-  - [Lesson 9](Lessons/Lesson1.md)
-  - [Lesson 10](Lessons/Lesson1.md)
-  - [Lesson 11](Lessons/Lesson1.md)
-  - [Lesson 12](Lessons/Lesson1.md)
+  - [Aug 07](Lessons/Lesson1.md)
+  - [Aug 14](Lessons/Lesson2.md)
+  - [Aug 21](Lessons/Lesson3.md)
+  - [Aug 28](Lessons/Lesson4.md)
+  - Sept 4 
+  - Sept 11
+  - Sep 18
+  - Sep 25
+  - Oct 02
+  - Oct 09
+  - Oct 16
+  - Oct 23
   - Demos, Presentations
 <!-- - **[Project](Assignments/Sample_Project.md)** -->
