@@ -20,7 +20,7 @@ Use the Engineering/Problem Solving Cycle to Solve your problems.
    Build one from parts, pieces, etc.
 
 <img src="Lessons/Images/62118.jpg" width="200" height="200">
-<img src="./../Lessons/Images/62120.jpg" width="200" height="200">
-<img src="./Images/62124.jpg" width="200" height="200">
+<img src="Lessons/Images/62120.jpg" width="200" height="200">
+<img src="Lessons/Images/62124.jpg" width="200" height="200">
 
 <!-- > -->
