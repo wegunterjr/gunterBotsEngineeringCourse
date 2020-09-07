@@ -32,9 +32,10 @@ Fail early, fail often!
 |:-----:|:----------------------:|:---------------------------------------:|
 |  1 |  Fri, Aug 07               | [Intro to Engineering] |
 |  2 |  Fri, Aug 14               | [Project Overview/Safety] |
-|  3 |  Fri, Aug 21               | Order Stuff/Finances |
+|  3 |  Fri, Aug 21               | [Research Stuff/Finances]|
 |  4 |  Fri, Aug 28               | Machining/3D Printing Overview |
-|  5 |  Fri, Sept 11              | Machining Stuff |
+|  5 |  Fri, Sept 4               | Disassemble hoverboards |
+|  5 |  Fri, Sept 11              | Try assembling two hoverboard wheels |
 |  6 |  Fri, Sept 18              | 3D print stuff |
 |  7 |  Fri, Sept 25              | Receive Parts/Assemble Stuff |
 |  8 |  Fri, Oct 02               | Electrical/Battery/Programming |
@@ -43,8 +44,9 @@ Fail early, fail often!
 | 11 |  Fri, Oct 23               | EVEN MORE TWEAKING!!]|
 | 12 |  Fri, Nov 06               | Celebrate and Demonstrate |
 
-[Intro to Engineering]: Lessons/Lesson1.md
+[Intro to Engineering]:    Lessons/Lesson1.md
 [Project Overview/Safety]: Lessons/Lesson2.md
+[Research Stuff/Finances]: Lessons/Lesson3.md
 
 ### Tutorials
 
