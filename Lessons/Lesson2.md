@@ -10,8 +10,15 @@
 !-- ![Image of Engineering Design Circle](../engineeringDesignProcess.png)
 
 Use the Engineering/Problem Solving Cycle to Solve your problems.
-1. Decide what to solve?
-1. Work on the specifics
+1. Identify Need or Problem
+   moving without walking or pushing off with your foot.
+   The problem - I don't have a one Wheel!  
+1. Research Criteria/Constraints
+   Limited Funds ($300ish per person), limited time - 12 weeks max
+1. Brainstorm possible solutions
+   Build one from parts, pieces, etc.
 
-
+<img src="./Images/62118.jpg" width="200" height="200">
+<img src="./Images/62120.jpg" width="200" height="200">
+<img src="./Images/62124.jpg" width="200" height="200">
 <!-- > -->
