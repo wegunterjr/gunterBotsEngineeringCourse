@@ -22,6 +22,6 @@ Major Parts/Categories identified:\
 Motor/Wheels\
 Deck \
 Pressure Plate   https://www.thingiverse.com/thing:4140325\
-Battery \
-Accessories
+Battery\
+Accessories\
 <!-- > -->
