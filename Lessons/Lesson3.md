@@ -11,6 +11,9 @@
 !-- ![Image of Engineering Design Circle](../engineeringDesignProcess.png)
 
  -->
+Engineering Design Cycle - (continued)
+1. Research Criteria/Constraints
+1. Brainstorm possible solutions
 
 | #  | Item                                 | Cost | Qty |     |
 |----|--------------------------------------|------|-----|-----|
