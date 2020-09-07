@@ -11,13 +11,13 @@
 Use the Engineering/Problem Solving Cycle to Solve your problems.
 1. Identify Need or Problem
    moving without walking or pushing off with your foot.
-   The problem - We don't have a one Wheel!  
+   The problem -  don't have a one Wheel!  
 1. Research Criteria/Constraints
    Limited Funds ($300ish per person), limited time - 12 weeks max
 1. Brainstorm possible solutions
    Build one from parts, pieces, etc.
 
-<img src="../Lessons/Images/62118.jpg" width="200" height="200">
+<img src="./../Lessons/Images/62118.jpg" width="200" height="200">
 <img src="./Images/62120.jpg" width="200" height="200">
 <img src="./Images/62124.jpg" width="200" height="200">
 <!-- > -->
