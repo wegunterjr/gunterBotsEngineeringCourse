@@ -23,7 +23,7 @@ Some Challenges with the hoverboard approach is that a lot of available hover bo
 
 Take the two hoverboard motors and make one wheel. The two motors will serve as the internal hub and will need a larger wheel.
 
-## Major Parts/Categories identified:\
+## Major Parts/Categories identified:  
 Motor/Wheels\
 Deck \
 Pressure Plate   https://www.thingiverse.com/thing:4140325  
