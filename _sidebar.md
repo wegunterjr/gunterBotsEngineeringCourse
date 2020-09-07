@@ -2,16 +2,15 @@
 - **Lessons**
   - [Lesson 1](Lessons/Lesson1.md)
   - [Lesson 2](Lessons/Lesson2.md)
-  - [Lesson 3](Lessons/Lesson1.md)
-  - [Lesson 4](Lessons/Lesson1.md)
-  - [Lesson 5](Lessons/Lesson1.md)
-  - [Lesson 6](Lessons/Lesson1.md)
+  - [Lesson 3](Lessons/Lesson3.md)
+  - [Lesson 4](Lessons/Lesson4.md)
+  - [Lesson 5](Lessons/Lesson5.md)
+  - [Lesson 6](Lessons/Lesson6.md)
   - [Lesson 7](Lessons/Lesson1.md)
   - [Lesson 8](Lessons/Lesson1.md)
   - [Lesson 9](Lessons/Lesson1.md)
   - [Lesson 10](Lessons/Lesson1.md)
   - [Lesson 11](Lessons/Lesson1.md)
   - [Lesson 12](Lessons/Lesson1.md)
-  - Final Class (Presentations, Demos, etc)
-  - Final Exam/Presentations
-- **[Project](Assignments/Sample_Project.md)**
+  - Demos, Presentations
+<!-- - **[Project](Assignments/Sample_Project.md)** -->
