@@ -23,19 +23,27 @@ https://forum.esk8.news/t/onewheel-build-guide-continuation-from-old-forum/19846
 ## This is a video of converting a hoverboard into a onewheel using 3d printed parts
 [![](http://img.youtube.com/vi/tJ3aADChl2o/0.jpg)](http://www.youtube.com/watch?v=tJ3aADChl2o "Hoverboard OneWheel Example Build")
 
+
+## This is a video for building the rim
+[![](http://img.youtube.com/vi/kwNj2Q_Ljmw/0.jpg)](http://www.youtube.com/watch?v=kwNj2Q_Ljmw "Hoverboard OneWheel Rim")
+
 Some Challenges with the hoverboard approach is that a lot of available hover boards have 6.5" wheels :unamused:.  Will make the deck lower to the ground, but might be some options to lift the deck but could be off-balance.
 
 Take the two hoverboard motors and make one wheel. The two motors will serve as the internal hub and will need a larger wheel.
 
 ## Major Parts/Categories identified:  
-Motor/Wheels\
-Deck \
-Pressure Plate   https://www.thingiverse.com/thing:4140325  
-Battery \
-Speed Controller with IMU  
-Accessories:  
-* Brain - M5 Stack  
-* Sensors
-* LED's
-* Speaker
+| Part | Link | 
+| ----- | ----- | 
+| Motor/Wheels |  ---- |    
+| Rim |  https://www.thingiverse.com/thing:3874514   |
+| Deck |   - | 
+| Deck components | https://www.thingiverse.com/thing:4083101 |
+| Pressure Plate |  https://www.thingiverse.com/thing:4140325  |
+| Battery |   - | 
+| Speed Controller with IMU  | - |
+| Accessories:  | - | 
+| * Brain - M5 Stack  | - | 
+| * Sensors | - |
+| * LED's | - | 
+| * Speaker | - | 
 <!-- > -->
