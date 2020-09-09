@@ -19,6 +19,8 @@ https://forum.esk8.news/t/onewheel-build-guide-continuation-from-old-forum/19846
 
 [![](http://img.youtube.com/vi/0dq-1kT_1OI/0.jpg)](http://www.youtube.com/watch?v=0dq-1kT_1OI "Hoverboard OneWheel")
 
+[![](http://img.youtube.com/vi/tJ3aADChl2o/0.jpg)](http://www.youtube.com/watch?v=tJ3aADChl2o "Hoverboard OneWheel Example Build")
+
 Some Challenges with the hoverboard approach is that a lot of available hover boards have 6.5" wheels :unamused:.  Will make the deck lower to the ground, but might be some options to lift the deck but could be off-balance.
 
 Take the two hoverboard motors and make one wheel. The two motors will serve as the internal hub and will need a larger wheel.
