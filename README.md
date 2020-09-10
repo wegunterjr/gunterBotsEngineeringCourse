@@ -36,10 +36,10 @@ Fail early, fail often!
 |  4 |  Fri, Aug 28               | Machining/3D Printing Overview |
 |  5 |  Fri, Sept 4               | Disassemble hoverboards |
 |  5 |  Fri, Sept 11              | [Try assembling two hoverboard wheels] |
-|  6 |  Fri, Sept 18              | 3D print stuff |
+|  6 |  Fri, Sept 18              |  [Programming Intro ]|
 |  7 |  Fri, Sept 25              | Receive Parts/Assemble Stuff |
 |  8 |  Fri, Oct 02               | Electrical/Battery/Programming |
-|  9 |  Fri, Oct 09               | TEST AND TWEAK!!! |
+|  9 |  Fri, Oct 09               | 3D print stuff |
 | 10 |  Fri, Oct 16               | TEST AND TWEAK PART DEUX!!! |
 | 11 |  Fri, Oct 23               | EVEN MORE TWEAKING!!]|
 | 12 |  Fri, Nov 06               | Celebrate and Demonstrate |
@@ -48,6 +48,7 @@ Fail early, fail often!
 [Project Overview/Safety]: Lessons/Lesson2.md
 [Research Stuff/Finances]: Lessons/Lesson3.md
 [Try assembling two hoverboard wheels]: Lessons/Lesson4.md
+[ Programming Intro ]: Lessons/Lesson5.md
 
 ### Tutorials
 
