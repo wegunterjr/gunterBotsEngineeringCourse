@@ -6,7 +6,7 @@
   - Aug 28
   - [Sept 4](Lessons/Lesson5.md) 
   - [Sept 11](Lessons/Lesson4.md)
-  - Sep 18
+  - [Sep 18](Lessons/Lesson5.md)
   - Sep 25
   - Oct 02
   - Oct 09
